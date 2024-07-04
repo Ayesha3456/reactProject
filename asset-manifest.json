@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactProject/static/css/main.e48ff371.css",
+    "main.js": "/reactProject/static/js/main.cbb200a9.js",
+    "static/js/453.ad6eb26e.chunk.js": "/reactProject/static/js/453.ad6eb26e.chunk.js",
+    "static/media/background.png": "/reactProject/static/media/background.db41df9d7af918a6e024.png",
+    "static/media/parties.svg": "/reactProject/static/media/parties.22dfdfb5db6b6f1f17bac74e9c169bb9.svg",
+    "static/media/review.svg": "/reactProject/static/media/review.e7747ca4604041b6b281acdab6b97b8a.svg",
+    "static/media/profile.svg": "/reactProject/static/media/profile.23da34421409e0141a29e76d6686baf3.svg",
+    "static/media/Instagram.svg": "/reactProject/static/media/Instagram.ebaee0f61b1edc3fe7d20f6f25ba5f4a.svg",
+    "static/media/Twitter.svg": "/reactProject/static/media/Twitter.70fde47ddef32932004772324e5304d5.svg",
+    "static/media/Group.svg": "/reactProject/static/media/Group.a17a2e80e649f1f4d5081d5bcbc07877.svg",
+    "static/media/requirement.svg": "/reactProject/static/media/requirement.da5e7ce2ce47bfe748058a133bea3480.svg",
+    "static/media/quote.svg": "/reactProject/static/media/quote.065e2c0d53767a8fd8f580af024799fc.svg",
+    "static/media/LinkedIn.svg": "/reactProject/static/media/LinkedIn.c35cf0163e2bbea9e01b789b57f18cd0.svg",
+    "index.html": "/reactProject/index.html",
+    "static/media/Facebook.svg": "/reactProject/static/media/Facebook.af01ed5542ddbf5ea8ecccd3169fd5cd.svg",
+    "main.e48ff371.css.map": "/reactProject/static/css/main.e48ff371.css.map",
+    "main.cbb200a9.js.map": "/reactProject/static/js/main.cbb200a9.js.map",
+    "453.ad6eb26e.chunk.js.map": "/reactProject/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e48ff371.css",
+    "static/js/main.cbb200a9.js"
+  ]
+}
