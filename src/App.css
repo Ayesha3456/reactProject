@@ -1,0 +1,381 @@
+.au-nav {
+    font-family: poppins !important;
+    font-size: 15.25px !important;
+    font-weight: 400 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+}
+
+.ax-card {
+    text-align: center !important;
+    top: 105px !important;
+}
+
+.ax-card-title {
+    font-family: Poppins !important;
+    font-size: 55px !important;
+    font-weight: 700 !important;
+    line-height: 66px !important;
+    text-align: center !important;
+}
+
+.ax-link {
+    margin-top: 15px;
+}
+
+.ax-form {
+    width: 338.45px !important;
+    height: 16px !important;
+    top: 1px !important;
+    left: 22px !important;
+}
+
+.ax-form-floating {
+    left: 50% !important;
+    width: 400px !important;
+}
+
+.ax-form-floating-second {
+    left: 30% !important;
+    width: 340px !important;
+}
+
+.ax-form-floating-third {
+    left: 5% !important;
+    width: 117.94px !important;
+    top: 12% !important;
+}
+
+.ax--card {
+    align-items: center !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.ax-div {
+    width: 100% !important;
+}
+
+.ax-left {
+    width: 50% !important;
+    height: 250px !important;
+    float: left !important;
+    margin-top: 56px !important;
+    margin-left: 102px !important;
+    line-height: 40px !important;
+    text-align: left !important;
+}
+
+.ax-left-head {
+    width: 500px !important;
+    height: 40px !important;
+    font-family: Poppins !important;
+    font-size: 37.34px !important;
+    font-weight: 700 !important;
+}
+
+.ax-para {
+    font-family: Poppins !important;
+    font-size: 17.16px !important;
+    font-weight: 300 !important;
+    line-height: 28px !important;
+    text-align: left !important;
+    width: 520px !important;
+    height: 95px !important;
+    margin-top: 35px !important;
+    left: 106px !important;
+}
+
+.ax-right {
+    margin-left: 50% !important;
+    height: 250px !important;
+    width: 541px !important;
+    margin-top: 66px !important;
+}
+
+.ax--btn {
+    width: 218px !important;
+    height: 40px !important;
+    font-family: Poppins !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    text-align: center !important;
+}
+
+.ax-card-color {
+    border-color: #E7760D !important;
+}
+
+.ax-btn-div {
+    margin-top: 45px !important;
+}
+
+.ax-card-video {
+    height: 395px !important;
+    width: 1120px !important;
+    background-color: #072F57 !important;
+    position: relative !important;
+    left: 98px !important;
+    top: 80px !important;
+    border-radius: 0 !important;
+}
+
+.ax-card-overlay {
+    position: absolute !important;
+    width: 80% !important;
+    height: 100% !important;
+    background-color: #eee !important;
+    top: 10px !important;
+}
+
+.ax-video {
+    width: 80% !important;
+    height: 250px !important;
+}
+
+a {
+    color: white !important;
+}
+
+.ax--link {
+    text-decoration: none;
+}
+
+.ax--left {
+    width: 50% !important;
+    height: 250px !important;
+    float: left !important;
+    margin-top: 75px !important;
+    margin-left: 90px !important;
+    line-height: 40px !important;
+    text-align: left !important;
+}
+
+.ax--right {
+    margin-left: 50% !important;
+    height: 250px !important;
+    width: 541px !important;
+    margin-top: 66px !important;
+}
+
+.ax-nav-buyer {
+    width: 202px !important;
+    height: 47px !important;
+    border-radius: 1px 0px 0px 0px !important;
+    border-radius: 0px !important;
+    text-align: center;
+    text-decoration: none;
+}
+
+.ax-nav-supplier {
+    width: 202px !important;
+    height: 47px !important;
+    border-radius: 1px 0px 0px 0px !important;
+    text-align: center;
+    text-decoration: none;
+}
+
+.ax-nav-items {
+    justify-content: space-between !important;
+    display: flex !important;
+}
+
+.nav-link {
+    color: #6D6E71 !important;
+    font-family: Poppins !important;
+    font-size: 14.25px !important;
+    font-weight: 400 !important;
+    line-height: 24px !important;
+    text-align: left !important;
+}
+
+.ax-nav-link {
+    color: #fff !important;
+}
+
+.ax-nav-link.active {
+    color: #EB7150 !important;
+    border-bottom: 2px solid #EB7150 !important;
+}
+
+.ax-tab-content {
+    width: 435px !important;
+    margin-top: 30px !important;
+}
+
+.ax__nav {
+    margin-right: 45px !important;
+}
+
+.icon-text {
+    display: flex !important;
+    align-items: center !important;
+    padding-left: 1.5em !important;
+    position: relative !important;
+}
+
+.icon-text::before {
+    content: '' !important;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1em" height="1em"><circle cx="256" cy="256" r="248" fill="%230AA06E"/><path d="M227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.248-16.379-6.248-22.627 0L216 297.373l-70.059-70.059c-6.248-6.248-16.379-6.248-22.627 0L100.687 250.94c-6.248 6.248-6.248 16.379 0 22.627l96 96c6.249 6.25 16.379 6.25 22.627-.001z" fill="%23FFFFFF"/></svg>') no-repeat left center;
+    background-size: 1em !important;
+    width: 1em !important;
+    height: 1em !important;
+    position: absolute !important;
+    left: 0 !important;
+}
+
+.ax__card {
+    margin-top: 160px !important;
+    background: #E8FBFF !important;
+    width: 1512px !important;
+    height: 254px !important;
+    border: none !important;
+}
+
+.ax-hr {
+    width: 138px !important;
+    height: 4px !important;
+    margin-left: 232px !important;
+    background: #EB7150 !important;
+    opacity: 1 !important;
+    color: #EB7150 !important;
+}
+
+.ax-card-text {
+    font-family: Poppins !important;
+    font-size: 37.34px !important;
+    font-weight: 600 !important;
+    line-height: 40px !important;
+    text-align: left !important;
+    width: 500px !important;
+    height: 40px !important;
+    margin-top: 95px !important;
+    margin-left: 128px !important;
+}
+
+.ax--btn--color {
+    background-color: #EB7150 !important;
+}
+
+.ax-div-verify {
+    display: flex !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+}
+
+.ax-left-verify {
+    float: left !important;
+    margin-left: 102px !important;
+}
+
+.ax-right-verify {
+    margin-left: 50% !important;
+    width: 541px !important;
+}
+
+.ax-working {
+    margin-top: 100px !important;
+    border: none !important;
+    height: 254px !important;
+}
+
+.ax-working-head {
+    font-family: Poppins !important;
+    font-size: 37.34px !important;
+    font-weight: 700 !important;
+    line-height: 48px !important;
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.ax-working-para {
+    width: 730px !important;
+    display: flex !important;
+    justify-content: center !important;
+    height: 52px !important;
+    margin-top: 5px !important;
+    margin-left: 336px !important;
+    font-family: Poppins !important;
+    font-size: 17.16px !important;
+    font-weight: 400 !important;
+    line-height: 26px !important;
+}
+
+.ax-row {
+    width: 697px !important;
+    margin-top: 15px !important;
+    margin-left: 325px !important;
+}
+
+.ax-working-card {
+    align-items: center !important;
+    text-align: center !important;
+    background-color: #E8FBFF !important;
+    border: none !important;
+}
+
+.ax-working-card1 {
+    align-items: center !important;
+    text-align: center !important;
+    border: none !important;
+}
+
+.ax-working-card2 {
+    align-items: center !important;
+    text-align: center !important;
+    background-color: #E8FBFF !important;
+    border: none !important;
+    width: 220px !important;
+}
+
+.ax-working-svg {
+    margin-left: 10%;
+}
+
+.ax-card-select {
+    width: 40px !important;
+    height: 40px !important;
+    margin-top: 15px !important;
+}
+
+.ax-working-card-text {
+    width: 230px !important;
+}
+
+.footer {
+    width: 1513px !important;
+    height: 210px !important;
+    margin-top: 320px !important;
+    background-color: #123557 !important;
+    color: #fff !important;
+    padding: 20px 0 !important;
+}
+
+.footer a {
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.footer a:hover {
+    color: #EB7150 !important;
+}
+
+.ax-img2 {
+    margin-left: -12px !important;
+}
+
+.ax-footer {
+    justify-content: space-around;
+}
+
+.ax-container {
+    margin-left: 100px !important;
+    margin-top: 18px !important;
+    margin-bottom: 18px !important;
+}
+
+.ax--hr {
+    width: 75% !important;
+    margin-left: 98px !important;
+}
